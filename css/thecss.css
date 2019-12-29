@@ -1,0 +1,31 @@
+html, body{
+  margin:0px 0px 0px 0px;
+  padding:0px 0px 0px 0px;
+  background-color:#276ebd;
+}
+
+body{
+  display:flex;
+}
+
+.title{
+  width:100vw;
+  text-align:center;
+  font-family:arial;
+  color:white;
+}
+
+.titleh{
+  font-size:78pt;
+}
+.subtitleh{
+  font-size:24pt;
+}
+
+.titleplace{
+  padding-top:12.5vh;
+  padding-bottom:12.5vh;
+  justify-content:center;
+  align-items: center;
+  height:50vh;
+}
