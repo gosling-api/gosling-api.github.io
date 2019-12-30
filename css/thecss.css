@@ -4,13 +4,10 @@ html, body{
   background-color:#276ebd;
 }
 
-body{
-  display:flex;
-}
 
 .title{
-  width:100vw;
   text-align:center;
+  display:block;
   font-family:arial;
   color:white;
 }
@@ -23,9 +20,7 @@ body{
 }
 
 .titleplace{
-  padding-top:12.5vh;
-  padding-bottom:12.5vh;
   justify-content:center;
   align-items: center;
-  height:50vh;
+  height:100vh;
 }
