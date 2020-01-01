@@ -19,6 +19,10 @@ html, body{
   font-size:24pt;
 }
 
+.spacer{
+  height:20vh;
+}
+
 .link{
   font-size:24pt;
 }
